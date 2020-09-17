@@ -1,0 +1,21 @@
+def the_number_five():
+    return 5
+    pass
+
+
+def so_useful(a):
+    return a
+    pass
+
+
+def add_two(a):
+    return a + 2
+    pass
+
+def say_hello(a):
+
+
+def sum_list(a):
+
+
+def find_item_in_list(a, b):
